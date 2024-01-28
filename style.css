@@ -113,8 +113,9 @@ button {
 
 #text_attemp{
     font-size: 18px;
+    color: rgb(197, 194, 16);
 }
 
 #text_Hint{
-    font-size: 18px;
+    font-size: 20px;
 }
